@@ -1,18 +1,13 @@
 <?php
 
 /**
- * Randomnessie - as random as Nessie appears
- *
- * @version 1.0.0
- * @author  Christoph Heich <mail@christophheich.de>
- */
-
-/**
  * @package Randomnessie
  */
 namespace Randomnessie;
 
 /**
+ * @version 1.0.0
+ * @author  Christoph Heich <mail@christophheich.de>
  * @package Randomnessie
  */
 class Coincidence {
@@ -206,8 +201,3 @@ class Coincidence {
     $this->probabilities = $this->_probabilities;
   }
 }
-
-/**
- * @package Randomnessie
- */
-class CoincidenceException extends \Exception {}
