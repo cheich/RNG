@@ -1,14 +1,12 @@
 <?php
 
 /**
- * @package Randomnessie
+ * @package RNG
  */
-namespace Randomnessie;
+namespace Cheich\RNG;
 
 /**
- * @version 1.0.0
- * @author  Christoph Heich <mail@christophheich.de>
- * @package Randomnessie
+ * @package RNG
  */
 class Coincidence {
   /**

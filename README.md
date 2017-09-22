@@ -1,4 +1,4 @@
-# Randomnessie - as random as Nessie appears
+# Random number generator
 
 ## Features
 

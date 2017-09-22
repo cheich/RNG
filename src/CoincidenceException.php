@@ -1,11 +1,11 @@
 <?php
 
 /**
- * @package Randomnessie
+ * @package RNG
  */
-namespace Randomnessie;
+namespace Cheich\RNG;
 
 /**
- * @package Randomnessie
+ * @package RNG
  */
 class CoincidenceException extends \Exception {}
