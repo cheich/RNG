@@ -1,9 +1,10 @@
 <?php
 
-use Randomnessie\Coincidence;
-use Randomnessie\CoincidenceException;
+use Cheich\RNG\Coincidence;
+use Cheich\RNG\CoincidenceException;
 
-require_once '../Randomnessie.php';
+require_once '../src/Coincidence.php';
+require_once '../src/CoincidenceException.php';
 
 // <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 // TEST SETTINGS
