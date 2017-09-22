@@ -1,0 +1,23 @@
+{
+  "name": "cheich/rng",
+  "version": "2.0-alpha1",
+  "description": "Random number generator",
+  "keywords": ["random", "rng", "probability", "coincidence"],
+  "homepage": "https://github.com/cheich/RNG",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christoph Heich",
+      "homepage": "https://christophheich.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+  },
+  "autoload": {
+    "psr-4": {
+      "Cheich\\RNG\\": "src/"
+    }
+  }
+}
